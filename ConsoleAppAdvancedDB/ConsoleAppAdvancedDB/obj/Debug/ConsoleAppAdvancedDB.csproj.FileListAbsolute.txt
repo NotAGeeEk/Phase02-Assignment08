@@ -1,0 +1,13 @@
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\bin\Debug\ConsoleAppAdvancedDB.exe.config
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\bin\Debug\ConsoleAppAdvancedDB.exe
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\bin\Debug\ConsoleAppAdvancedDB.pdb
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\bin\Debug\EntityFramework.dll
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\bin\Debug\EntityFramework.xml
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\obj\Debug\ConsoleAppAdvancedDB.csproj.AssemblyReference.cache
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\obj\Debug\ConsoleAppAdvancedDB.csproj.SuggestedBindingRedirects.cache
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\obj\Debug\ConsoleAppAdvancedDB.csproj.CoreCompileInputs.cache
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\obj\Debug\ConsoleAppAdvancedDB.csproj.CopyComplete
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\obj\Debug\ConsoleAppAdvancedDB.exe
+D:\Phase2\Assignment exerciese\Assignment-08\ConsoleAppAdvancedDB\ConsoleAppAdvancedDB\obj\Debug\ConsoleAppAdvancedDB.pdb
